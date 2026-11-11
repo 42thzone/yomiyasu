@@ -1,10 +1,10 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
-  "name": "yomiyasu",
-  "version": "3.0.0",
-  "description": "AIが生成した日本語を、意味と条件を保って読みやすく整えるスキル。",
+  "name": "yomiyasu-rakazo",
+  "version": "1.0.0",
+  "description": "Rakazo向けの日本語推敲スキル。意味・条件・文体を保ちながら、AI生成文の不自然な表現を整える。",
   "author": {
-    "name": "nanaism"
+    "name": "Rakazo port based on nanaism/yomiyasu"
   },
   "homepage": "https://github.com/nanaism/yomiyasu",
   "license": "MIT",
