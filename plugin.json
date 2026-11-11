@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.1.0/plugin.schema.json",
+  "name": "yomiyasu",
+  "version": "3.0.0",
+  "description": "AIが生成した日本語を、意味と条件を保って読みやすく整えるスキル。",
+  "author": {
+    "name": "nanaism"
+  },
+  "homepage": "https://github.com/nanaism/yomiyasu",
+  "license": "MIT",
+  "keywords": [
+    "japanese",
+    "writing",
+    "proofreading",
+    "editing",
+    "agent-skill"
+  ]
+}
