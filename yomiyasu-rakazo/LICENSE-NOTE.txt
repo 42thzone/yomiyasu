@@ -1,0 +1,5 @@
+This is an unofficial Rakazo-oriented adaptation based on nanaism/yomiyasu.
+Original project: https://github.com/nanaism/yomiyasu
+The original project is MIT-licensed. Preserve the original LICENSE and attribution
+when redistributing a fork or derivative. This generated package does not include
+the original repository's full reference corpus or executable scripts.
